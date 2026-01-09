@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "毎日 - Every Day",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-01-09T07:46:24.874801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "毎日",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/01_毎日_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "毎日 - Every Day",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_毎日_-_Every_Day_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "毎日 - Every Day - Mainichi - Every Day",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_毎日_-_Every_Day_-_Mainichi_-_Every_Day_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "毎日",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_毎日_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "毎日",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/05_毎日_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "毎日 - Every Day",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_毎日_-_Every_Day_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "毎日",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_毎日_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "毎日 - Every Day",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/08_毎日_-_Every_Day_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マイ・My・毎日",
+      "artist": "橋本潮",
+      "has_synced": false,
+      "path": "select/09_マイ・My・毎日_橋本潮.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mainichi 毎日",
+      "artist": "MIYACHI",
+      "has_synced": true,
+      "path": "select/10_Mainichi_毎日_MIYACHI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mainichi 毎日",
+      "artist": "MIYACHI",
+      "has_synced": true,
+      "path": "select/11_Mainichi_毎日_MIYACHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "毎日",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_毎日_米津玄師.txt"
+    }
+  ]
+}
